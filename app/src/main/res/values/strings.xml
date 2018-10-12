@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">club guide</string>
+    <string name="arts">ARTS</string>
+    <string name="ieee">IEEE</string>
+    <string name="techvision">TECHVISION</string>
+    <string name="robotics">ROBOTICS</string>
+    <string name="eca">ECA</string>
+</resources>
